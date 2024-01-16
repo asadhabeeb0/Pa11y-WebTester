@@ -1,0 +1,17 @@
+{
+  "name": "pally-watester",
+  "version": "1.0.0",
+  "description": "Build a Website Accessibility Tester With JavaScript & Pa11y",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Asad Habeeb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pa11y": "^6.2.3"
+  }
+}
